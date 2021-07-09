@@ -8,4 +8,5 @@ Este projeto consiste em uma horta controlada por um ESP 32 em conjunto com algu
 * Display OLED SSD1306 128x64;
 
 O esquematico está disposto abaixo e o firmware se encontra na pasta arduino com o nome firmware_final.ino.
-!(Images/Schematic.png)
+
+![](Images/Schematic.png)
