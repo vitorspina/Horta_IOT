@@ -11,3 +11,6 @@ O esquematico está disposto abaixo e o firmware se encontra na pasta ESP com o 
 
 ![](Images/Schematic.png)
 
+A arquitetura do projeto segue a imagem abaixo. O projeto se encontra na versão 1.X. Melhorias ainda podem ser implementadas, o Broker, o mySQL e o Bot rodam em um raspberry pi zero W com 512mb de RAM.
+
+![](Images/arquitetura.png)
