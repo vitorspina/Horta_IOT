@@ -69,6 +69,9 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   delay(1000);
+  if(get_umidade_solo() >3000){
+    rega_planta();
+  }
   mantemConexoes();
   monta_dashboard();
   MQTT.loop();
@@ -275,7 +278,7 @@ void rega_planta(){
   display.print("Glub Glub Glub");
   display.display();
   MQTT.publish("regandoaplanta","Chuvendo na hortinha");
-  delay(5000);
+  delay(20000);
   
   digitalWrite(bombapararegar,LOW);
   }
