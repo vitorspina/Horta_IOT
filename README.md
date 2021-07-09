@@ -20,4 +20,4 @@ As bibliotecas utilizadas encontram-se no arquivo requirements.txt para facilita
 ```bash
 pip install -r requirements.txt
 ```
-Conforme presenta na licensa sinta-se livre para usar e modificar o projeto como desejar. Caso queira discutir o projeto, entre em contato comigo pelo meu linkedin presente no README.md do meu perfil.
+Conforme presente na licensa sinta-se livre para usar e modificar o projeto como desejar. Caso queira discutir o projeto, entre em contato comigo pelo meu linkedin presente no README.md do meu perfil.
