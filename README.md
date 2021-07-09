@@ -6,5 +6,6 @@ Este projeto consiste em uma horta controlada por um ESP 32 em conjunto com algu
 * LDR para medir a intesidade do sol;
 * Um módulo de umidade do solo LM393;
 * Display OLED SSD1306 128x64;
+
 O esquematico está disposto abaixo e o firmware se encontra na pasta arduino com o nome firmware_final.ino.
-(Images/schematic.pdf)
+(Images/Schematic.png)
