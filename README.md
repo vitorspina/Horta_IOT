@@ -14,3 +14,10 @@ O esquematico está disposto abaixo e o firmware se encontra na pasta ESP com o 
 A arquitetura do projeto segue a imagem abaixo. O projeto se encontra na versão 1.X. Melhorias ainda podem ser implementadas, o Broker, o mySQL e o Bot rodam em um raspberry pi zero W com 512mb de RAM.
 
 ![](Images/arquitetura.png)
+
+As bibliotecas utilizadas encontram-se no arquivo requirements.txt para facilitar a instalação, faça o seguinte comando no seu terminal.
+
+```bash
+pip install -r requirements.txt
+```
+Conforme presenta na licensa sinta-se livre para usar e modificar o projeto como desejar. Caso queira discutir o projeto, entre em contato comigo pelo meu linkedin presente no README.md do meu perfil.
