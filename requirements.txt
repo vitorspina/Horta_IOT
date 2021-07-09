@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+paho-mqtt
+mysql-connector-python
+dotenv
