@@ -22,4 +22,4 @@ pip install -r requirements.txt
 ```
 Conforme presente na licença, sinta-se livre para usar e modificar o projeto como desejar. Caso queira discuti-lo, entre em contato comigo pelo meu linkedin presente no README.md do meu perfil.
 
-Boa jardinagem para os papais e mamães de plantas!!!!
+Boa jardinagem!!!!
